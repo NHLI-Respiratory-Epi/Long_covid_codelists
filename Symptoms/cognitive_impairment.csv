@@ -1,0 +1,54 @@
+medcodeid,term,cognitive_impairment
+11905341000006100,[d]confusion,1
+1209242010,neurapraxia,1
+1216369018,[v]behavioural problems,1
+1222481019,[d]memory deficit,1
+1480927011,memory impairment,1
+1491795010,cognitive impairment,1
+2288201000000110,mild cognitive impairment,1
+2288241000000110,moderate cognitive impairment,1
+2288281000000110,severe cognitive impairment,1
+257013016,memory: own age not known,1
+257017015,memory: present time not known,1
+257025018,memory: present year not known,1
+257029012,memory: own dob not known,1
+257033017,memory: present month not knwn,1
+257037016,memory: important event not kn,1
+257041017,memory: import.person not knwn,1
+2638111000000110,mild cognitive impairment review,1
+295525018,mild memory disturbance,1
+317084016,[d]amnesia (retrograde),1
+317090017,[d]anterograde amnesia,1
+317099016,[d]restlessness and agitation,1
+318024017,[x]other amnesia,1
+3279341000006110,memory loss,1
+3341551000006110,ra - retrograde amnesia,1
+345718011,transient global amnesia,1
+369704019,short-term memory loss,1
+378101000006119,[x]dissociative amnesia,1
+3943381000006110,antegrade amnesia,1
+418882018,chronic confusional state,1
+6462091000006110,cognitive dysfunction,1
+6462141000006110,memory dysfunction,1
+6462171000006110,memory problem,1
+710751000006111,memory: present place not knwn,1
+711371000006111,memory disturbance,1
+711391000006112,memory loss symptom,1
+711421000006116,memory: address recall unsucc.,1
+711451000006113,memory: count down unsuccess.,1
+932191000006119,cognitive impairment,1
+95961000006119,transient global amnesia,1
+12487831000006100,memory: import.person not knwn,1
+1491798012,cognitive decline,1
+1807641000006110,impaired cognition,1
+215831000000117,[x]mild cognitive disorder,1
+3279381000006110,loss of memory,1
+4591091000006110,memory: own date of birth not known,1
+4591221000006110,memory: important person not known,1
+5246161000006110,poor short-term memory,1
+6462081000006110,cognitive disturbance,1
+6462111000006110,cognitive deficit,1
+6462151000006110,impaired memory,1
+6462181000006110,poor memory,1
+6462191000006110,bad memory,1
+6462201000006110,disturbance of memory,1

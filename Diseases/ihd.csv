@@ -1,0 +1,147 @@
+medcodeid,readcode,readterm,ihd
+810811000006116,14A3.00,H/O: myocardial infarct <60,1
+810821000006112,14A4.00,H/O: myocardial infarct >60,1
+451369010,14AH.00,H/O: Myocardial infarction in last year,1
+451370011,14AJ.00,H/O: Angina in last year,1
+264493019,662K000,Angina control - good,1
+264494013,662K100,Angina control - poor,1
+264497018,662Kz00,Angina control NOS,1
+220231000000118,792..00,Coronary artery operations,1
+348644016,792..11,Coronary artery bypass graft operations,1
+1228282017,7920,Saphenous vein graft replacement of coronary artery,1
+161451000006116,7920.11,Saphenous vein graft bypass of coronary artery,1
+271073015,7920000,Saphenous vein graft replacement of one coronary artery,1
+271074014,7920100,Saphenous vein graft replacement of two coronary arteries,1
+271075010,7920200,Saphenous vein graft replacement of three coronary arteries,1
+161491000006110,7920300,Saphenous vein graft replacement of four+ coronary arteries,1
+161481000006112,7920y00,Saphenous vein graft replacement of coronary artery OS,1
+271079016,7920z00,Saphenous vein graft replacement coronary artery NOS,1
+271080018,7921,Other autograft replacement of coronary artery,1
+271083016,7921200,Autograft replacement of three coronary arteries NEC,1
+271087015,7922.11,Allograft bypass of coronary artery,1
+271105012,7924,Revision of bypass for coronary artery,1
+1221061012,7927500,Open angioplasty of coronary artery,1
+89711000006118,7928,Transluminal balloon angioplasty of coronary artery,1
+238641000006117,7928000,Percut transluminal balloon angioplasty one coronary artery,1
+238571000006114,7928100,Percut translum balloon angioplasty mult coronary arteries,1
+238561000006119,7928200,Percut translum balloon angioplasty bypass graft coronary a,1
+271148018,7928z00,Transluminal balloon angioplasty of coronary artery NOS,1
+484402013,7929000,Percutaneous transluminal laser coronary angioplasty,1
+238651000006115,7929100,Percut transluminal coronary thrombolysis with streptokinase,1
+2536354015,7929400,Insertion of coronary artery stent,1
+311461000000116,7929500,Insertion of drug-eluting coronary artery stent,1
+271164014,792Bz00,Repair of coronary artery NOS,1
+271169016,792D.00,Other bypass of coronary artery,1
+271170015,792Dy00,Other specified other bypass of coronary artery,1
+271171016,792Dz00,Other bypass of coronary artery NOS,1
+2535176014,792E.00,Percutaneous coronary intervention,1
+271172011,792y.00,Other specified operations on coronary artery,1
+271173018,792z.00,Coronary artery operations NOS,1
+1547631000006110,793G.00,Perc translumin balloon angioplasty stenting coronary artery,1
+1547641000006110,793G000,Perc translum ball angio insert 1-2 drug elut stents cor art,1
+1547651000006110,793G100,Perc tran ball angio ins 3 or more drug elut stents cor art,1
+1547661000006110,793G200,Perc translum balloon angioplasty insert 1-2 stents cor art,1
+1547691000006110,793Gz00,Perc translum balloon angioplasty stenting coronary art NOS,1
+2534664018,G3...00,Ischaemic heart disease,1
+2536393012,G3...11,Arteriosclerotic heart disease,1
+89332015,G3...12,Atherosclerotic heart disease,1
+2537480011,G3...13,IHD - Ischaemic heart disease,1
+94884017,G30..00,Acute myocardial infarction,1
+219521000000119,G30..11,Attack - heart,1
+1786197015,G30..12,Coronary thrombosis,1
+537751000006115,G30..13,Cardiac rupture following myocardial infarction (MI),1
+37443015,G30..14,Heart attack,1
+219531000000117,G30..15,MI - acute myocardial infarction,1
+1786198013,G30..16,Thrombosis - coronary,1
+350376014,G30..17,Silent myocardial infarction,1
+455641000006112,G300.00,Acute anterolateral infarction,1
+299707016,G301.00,Other specified anterior myocardial infarction,1
+299708014,G301000,Acute anteroapical infarction,1
+455651000006114,G301100,Acute anteroseptal infarction,1
+299709018,G301z00,Anterior myocardial infarction NOS,1
+457531000006110,G302.00,Acute inferolateral infarction,1
+1234005010,G303.00,Acute inferoposterior infarction,1
+299710011,G304.00,Posterior myocardial infarction NOS,1
+299711010,G305.00,Lateral myocardial infarction NOS,1
+299712015,G306.00,True posterior myocardial infarction,1
+116992017,G307.00,Acute subendocardial infarction,1
+450322013,G307000,Acute non-Q wave infarction,1
+1780501013,G307100,Acute non-ST segment elevation myocardial infarction,1
+299714019,G308.00,Inferior myocardial infarction NOS,1
+447324018,G309.00,Acute Q-wave infarct,1
+1235655012,G30A.00,Mural thrombosis,1
+967931000006114,G30B.00,Acute posterolateral myocardial infarction,1
+460681000006116,G30X.00,Acute transmural myocardial infarction of unspecif site,1
+1780491019,G30X000,Acute ST segment elevation myocardial infarction,1
+299718016,G30y.00,Other acute myocardial infarction,1
+299719012,G30y000,Acute atrial infarction,1
+1234306015,G30y200,Acute septal infarction,1
+299720018,G30yz00,Other acute myocardial infarction NOS,1
+299721019,G30z.00,Acute myocardial infarction NOS,1
+39111000006114,G31..00,Other acute and subacute ischaemic heart disease,1
+109915012,G310.00,Postmyocardial infarction syndrome,1
+109916013,G310.11,Dressler's syndrome,1
+7844010,G311.00,Preinfarction syndrome,1
+7847015,G311.11,Crescendo angina,1
+72571000006115,G311.13,Unstable angina,1
+482811000006113,G311.14,Angina at rest,1
+7845011,G311100,Unstable angina,1
+498328016,G311200,Angina at rest,1
+459487012,G311300,Refractory angina,1
+494261017,G311400,Worsening angina,1
+1488382011,G311500,Acute coronary syndrome,1
+299723016,G31y.00,Other acute and subacute ischaemic heart disease,1
+299745015,G31y000,Acute coronary insufficiency,1
+1229885017,G31y100,Microinfarction of heart,1
+494438016,G31y200,Subendocardial ischaemia,1
+459488019,G31y300,Transient myocardial ischaemia,1
+299750014,G31yz00,Other acute and subacute ischaemic heart disease NOS,1
+4031011,G32..00,Old myocardial infarction,1
+4032016,G32..11,Healed myocardial infarction,1
+299757012,G33..00,Angina pectoris,1
+98087016,G330.00,Angina decubitus,1
+59952018,G330000,Nocturnal angina,1
+1235225010,G331.00,Prinzmetal's angina,1
+144819018,G331.11,Variant angina pectoris,1
+39773018,G332.00,Coronary artery spasm,1
+482941000006119,G33z.00,Angina pectoris NOS,1
+32122016,G33z000,Status anginosus,1
+36036010,G33z200,Syncope anginosa,1
+442204010,G33z300,Angina on effort,1
+338974012,G33z400,Ischaemic chest pain,1
+458410010,G33z500,Post infarct angina,1
+350350014,G33z600,New onset angina,1
+350348018,G33z700,Stable angina,1
+299765010,G33zz00,Angina pectoris NOS,1
+299776014,G34..00,Other chronic ischaemic heart disease,1
+595731000006114,G340.00,Coronary atherosclerosis,1
+350346019,G340.11,Triple vessel disease of the heart,1
+2536395017,G340.12,Coronary artery disease,1
+299782012,G340000,Single coronary vessel disease,1
+299783019,G340100,Double coronary vessel disease,1
+496991000006111,G342.00,Atherosclerotic cardiovascular disease,1
+299796018,G343.00,Ischaemic cardiomyopathy,1
+350354017,G344.00,Silent myocardial ischaemia,1
+299800012,G34y.00,Other specified chronic ischaemic heart disease,1
+2537483013,G34y000,Chronic coronary insufficiency,1
+2534674015,G34y100,Chronic myocardial ischaemia,1
+299804015,G34yz00,Other specified chronic ischaemic heart disease NOS,1
+299805019,G34z.00,Other chronic ischaemic heart disease NOS,1
+459859010,G34z000,Asymptomatic coronary heart disease,1
+299808017,G35..00,Subsequent myocardial infarction,1
+299811016,G350.00,Subsequent myocardial infarction of anterior wall,1
+299812011,G351.00,Subsequent myocardial infarction of inferior wall,1
+299813018,G353.00,Subsequent myocardial infarction of other sites,1
+543291000006110,G36..00,Certain current complication follow acute myocardial infarct,1
+498031000006112,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,1
+67081000006119,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,1
+158601000006116,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,1
+100681000006116,G366.00,Thrombosis atrium,1
+208365015,G38..00,Postoperative myocardial infarction,1
+455422014,G384.00,Postoperative subendocardial myocardial infarction,1
+299834013,G3y..00,Other specified ischaemic heart disease,1
+299835014,G3z..00,Ischaemic heart disease NOS,1
+2160096015,SP07600,Coronary artery bypass graft occlusion,1
+460686018,ZV45700,[V]Presence of aortocoronary bypass graft,1
+451132018,ZV45K00,[V]Presence of coronary artery bypass graft,1
+1227364015,ZV45K11,[V]Presence of coronary artery bypass graft - CABG,1

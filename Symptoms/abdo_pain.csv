@@ -1,0 +1,121 @@
+medcodeid,term,abdo_pain
+36112013,abdominal pain,1
+2842251000006110,ap - abdominal pain,1
+317562013,[d]abdominal pain,1
+317586010,[d]other specified abdominal pain,1
+317587018,[d]abdominal pain nos,1
+318003010,[x]other and unspecified abdominal pain,1
+11989381000006100,pain in esophagus,1
+1218836019,general abdominal pain-symptom,1
+1236016018,colicky abdominal pain,1
+12454471000006100,o/e - epigastric pain on palp.,1
+12454871000006100,o/e - abd. pain - epigastrium,1
+12454881000006100,o/e - abd. pain - hypogastrium,1
+12454891000006100,o/e - abd. pain - l.iliac,1
+12454901000006100,o/e - abd. pain - l.lumbar,1
+12454911000006100,o/e - abd. pain - r.iliac,1
+12454921000006100,o/e - abd. pain - r.lumbar,1
+12454931000006100,o/e - abd. pain - umbilical,1
+12454991000006100,o/e - abd.pain-l.hypochondrium,1
+12455001000006100,o/e - abd.pain-r.hypochondrium,1
+132601013,epigastric pain,1
+137890011,upper abdominal pain,1
+252305018,generalised abdominal pain,1
+252571013,non-colicky abdominal pain,1
+252572018,shoulder pain from abdomen,1
+252575016,abdominal wall pain,1
+252576015,hunger pain,1
+252584016,central abdominal pain,1
+252585015,left subcostal pain,1
+252586019,right subcostal pain,1
+252587011,left flank pain,1
+252588018,right flank pain,1
+252589014,right iliac fossa pain,1
+252594014,left iliac fossa pain,1
+252595010,suprapubic pain,1
+254352011,o/e - abd.pain-r.hypochondrium,1
+254353018,o/e - abd. pain - epigastrium,1
+254354012,o/e - abd.pain-l.hypochondrium,1
+254355013,o/e - abd. pain - r.lumbar,1
+254356014,o/e - abd. pain - umbilical,1
+254357017,o/e - umbilical pain on palp.,1
+254358010,o/e - abd. pain - l.lumbar,1
+254359019,o/e - abd. pain - r.iliac,1
+254360012,o/e - abd. pain - hypogastrium,1
+254361011,o/e - abd. pain - l.iliac,1
+254362016,o/e -abd.pain on palpation nos,1
+255553010,o/e - painful splenomegaly,1
+2646781000006110,acute abdominal pain syndrome,1
+2659121000006110,spasmodic abdominal pain,1
+2659131000006110,colicky abdominal pain,1
+2986821000006110,painful swallowing,1
+2986831000006110,pain on swallowing,1
+299171000006116,[d]left upper quadrant pain,1
+301981000006114,[d]right upper quadrant pain,1
+303651000006110,[d]upper abdominal pain,1
+317470018,"[d]flatulence, eructation and gas pain",1
+317473016,[d]gas pain (abdominal),1
+317477015,"[d]flatulence, eructation and gas pain nos",1
+317500019,[d]pain in oesophagus,1
+317568012,[d]epigastric pain,1
+317569016,[d]umbilical pain,1
+317570015,[d]hypochondrial pain,1
+317571016,[d]suprapubic pain,1
+317572011,[d]pain in right iliac fossa,1
+317573018,[d]pain in left iliac fossa,1
+317575013,[d]loin pain,1
+317577017,[d]recurrent acute abdominal pain,1
+317579019,[d]pelvic and perineal pain,1
+318001012,[x]pain localized to other parts of lower abdomen,1
+3242511000006110,abdominal wind pain,1
+3242521000006110,gas pain - abdominal,1
+369360011,subcostal pain,1
+369362015,iliac fossa pain,1
+369363013,flank pain,1
+402479018,o/e - abdo. pain on palpation,1
+402554018,o/e - tenderness/pain,1
+407091012,c/o - loin pain,1
+407093010,c/o - renal pain,1
+4077121000006110,inguinal pain,1
+4077761000006110,generalized abdominal pain,1
+4077861000006110,pain in oesophagus,1
+4077871000006110,esophageal pain,1
+4077881000006110,oesophageal pain,1
+411281013,o/e - iliac pain on palpation,1
+411282018,o/e - lumbar pain on palpation,1
+443112015,right upper quadrant pain,1
+452290019,o/e - epigastric pain on palp.,1
+4546201000006110,rif - right iliac fossa pain,1
+4546241000006110,lif - left iliac fossa pain,1
+4546261000006110,pain of hypogastrium,1
+4546271000006110,hypogastric pain,1
+455441012,[d]left lower quadrant pain,1
+455442017,[d]right lower quadrant pain,1
+455443010,[d]nonspecific abdominal pain,1
+4559791000006110,on examination - abdominal pain - right hypochondrium,1
+4559811000006110,on examination - abdominal pain - epigastrium,1
+4559831000006110,on examination - abdominal pain - left hypochondrium,1
+4559851000006110,on examination - abdominal pain - right lumbar,1
+4559871000006110,on examination - abdominal pain - umbilical,1
+4559901000006110,on examination - abdominal pain - left lumbar,1
+4559921000006110,on examination - abdominal pain - right iliac,1
+4559941000006110,on examination - abdominal pain - hypogastrium,1
+4559961000006110,on examination - abdominal pain - left iliac,1
+4576081000006110,on examination - painful splenomegaly,1
+5243121000006110,type of abdominal pain,1
+5497951000006110,site of gastrointestinal tract pain,1
+5516891000006110,type of gastrointestinal tract pain,1
+5533131000006110,complaining of loin pain,1
+5533151000006110,complaining of renal pain,1
+5572031000006110,on examination - iliac pain on palpation,1
+5572051000006110,on examination - lumbar pain on palpation,1
+5983231000006110,on examination - epigastric pain on palpation,1
+853721000006115,left loin pain,1
+853851000006118,groin pain,1
+90723010,lower abdominal pain,1
+958291000006112,colicky abdominal pain present,1
+2659101000006110,intestinal colic,1
+299763015,angina decubitus nos,1
+317564014,[d]abdominal colic,1
+317565010,[d]colic nos,1
+402478014,o/e - abdomen tender,1

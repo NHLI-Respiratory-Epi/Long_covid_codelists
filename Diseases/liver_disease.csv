@@ -1,0 +1,125 @@
+medcodeid,term,liver_disease
+103853010,hepatic fibrosis,1
+1222542016,[d]lft's abnormal,1
+122921000006118,subacute hepatitis - noninfective,1
+12717531000006100,[d]abnormal liver function test nos,1
+12717961000006100,[d]abnormal liver function test,1
+12731391000006100,unspecified viral hepatitis,1
+1786201000006110,fatty change of liver,1
+1786211000006110,fatty liver,1
+179049010,viral hepatitis without hepatic coma,1
+1814911000006110,acute viral hepatitis nos,1
+1879891000006110,non-alcoholic fatty liver disease (nafld) fibrosis score,1
+2159899016,autoimmune hepatitis,1
+252501000006117,other viral hepatitis,1
+2534188017,acute hepatic failure due to drugs,1
+2558581000006110,vh - viral hepatitis,1
+258893017,liver function tests abnormal,1
+2754711000006110,viral hepatitis a with hepatic coma,1
+2819666013,nonalcoholic steatohepatitis,1
+286867013,other specified viral hepatitis with coma,1
+286869011,other specified viral hepatitis with hepatic coma nos,1
+286870012,other specified viral hepatitis without coma,1
+286876018,unspecified viral hepatitis with coma,1
+286882015,unspecified viral hepatitis,1
+288168013,[x]other specified acute viral hepatitis,1
+288171017,[x]unspecified viral hepatitis with coma,1
+288172012,[x]unspecified viral hepatitis without coma,1
+294324014,deficiency of coagulation factor due to liver disease,1
+303377014,acute necrosis of liver,1
+303379012,acute liver failure,1
+303381014,acute hepatic failure,1
+303385017,acute necrosis of liver nos,1
+303387013,subacute necrosis of liver,1
+303388015,subacute hepatic failure,1
+303391015,subacute necrosis of liver nos,1
+303401012,chronic active hepatitis,1
+303404016,autoimmune chronic active hepatitis,1
+303407011,recurrent hepatitis,1
+303409014,chronic hepatitis unspecified,1
+303410016,chronic hepatitis nos,1
+303456012,other non-alcoholic chronic liver disease,1
+303457015,non-alcoholic fatty liver,1
+303463012,steatosis of liver,1
+303464018,other non-alcoholic chronic liver disease nos,1
+303465017,chronic liver disease nos,1
+303491016,hepatitis in viral diseases ec,1
+303497017,hepatitis in other viral disease,1
+303499019,hepatitis in viral diseases ec nos,1
+303500011,hepatitis in other infectious diseases ec,1
+303505018,hepatitis in infectious diseases ec nos,1
+303506017,hepatitis unspecified,1
+303507014,toxic hepatitis,1
+303509012,hepatitis unspecified nos,1
+303510019,toxic liver disease,1
+303512010,toxic liver disease with hepatic necrosis,1
+303514011,toxic liver disease with acute hepatitis,1
+303515012,toxic liver disease with chronic persistent hepatitis,1
+303516013,toxic liver disease with chronic lobular hepatitis,1
+303517016,toxic liver disease with chronic active hepatitis,1
+303518014,toxic liver disease with fibrosis and cirrhosis of liver,1
+303527010,other specified liver disorder,1
+303531016,other specified liver disorder nos,1
+303779014,[x]diseases of the liver,1
+303780012,[x]toxic liver disease with other disorders of liver,1
+303781011,[x]other and unspecified cirrhosis of liver,1
+303782016,[x]other specified inflammatory liver diseases,1
+303783014,[x]other specified diseases of liver,1
+303785019,[x]liver disorders in other diseases classified elsewhere,1
+303786018,"[x]toxic liver disease, unspecified",1
+317856013,[d]abnormal liver function test,1
+317859018,[d]abnormal liver scan,1
+317860011,[d]abnormal liver function test nos,1
+325079010,liver failure as a complication of care,1
+325080013,hepatic failure as a complication of care,1
+325081012,hepatorenal syndrome as a complication of care,1
+3432971000006110,avh - acute viral hepatitis,1
+3473241000006110,liver function failure,1
+353567019,nonspecific reactive hepatitis,1
+353596018,liver failure nos,1
+353597010,hepatic failure nos,1
+358961000006119,[x] hepatic failure,1
+359011000006113,[x] liver failure,1
+396393014,non-alcoholic cirrhosis nos,1
+396394015,other sequelae of chronic liver disease,1
+426491000006112,[x]sequelae/other specified infectious+parasitic diseases,1
+43401012,acquired coagulation factor deficiency,1
+4407011000006110,chronic type c viral hepatitis,1
+457421000006113,acute hepatitis - noninfective,1
+4787031000006110,alf - acute liver failure,1
+4787291000006110,nafld - nonalcoholic fatty liver disease,1
+5086511000006110,ld - liver disease,1
+61321014,hepatosplenomegaly,1
+68294019,viral hepatitis with hepatic coma,1
+7302012,viral hepatitis,1
+879231000006111,other hepatitis,1
+895061000006119,liver function abnormal [d],1
+895071000006114,liver function abnormal nos[d],1
+906001000006117,[rfc] liver failure,1
+99171000006113,"toxic liver disease, unspecified",1
+99549014,hepatic failure,1
+109733012,serum hepatitis,1
+222891000000119,infective hepatitis,1
+303490015,other liver disorders,1
+303532011,liver disorder nos,1
+314015017,"liver anomaly, unspecified",1
+3151501000006110,ih - infectious hepatitis,1
+3473231000006110,hepatic insufficiency,1
+3473251000006110,liver decompensation,1
+3515871000006110,fibrosis of liver,1
+353613017,cirrhosis of liver nos,1
+3678071000006110,subacute noninfective hepatitis,1
+3678081000006110,subacute non-infective hepatitis,1
+4406151000006110,inflammatory disorder of liver,1
+4599071000006110,abnormal results of liver function studies,1
+4786981000006110,massive hepatic necrosis,1
+4787051000006110,acute noninfectious hepatitis,1
+4787061000006110,subacute hepatic necrosis,1
+5086501000006110,disorder of liver,1
+5086571000006110,hepatitis due to infection,1
+5493041000006110,"cirrhosis, nonalcoholic",1
+5493051000006110,cirrhosis of liver not due to alcohol,1
+740781000006110,liver anomalies,1
+806841000006117,"granulomatous hepatitis, not elsewhere classified",1
+820381000006112,hepatic fibrosis,1
+879211000006117,infectious hepatitis,1

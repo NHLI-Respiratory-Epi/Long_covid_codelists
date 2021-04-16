@@ -1,0 +1,197 @@
+medcodeid,term,thyroid_disease
+101581000006112,thyroid insufficiency,1
+101891000006113,thyrotoxicosis without mention of goitre or cause no crisis,1
+101911000006110,"thyrotoxicosis without mention of goitre, cause with crisis",1
+102259010,iatrogenic thyroiditis,1
+12727341000006100,hypothyroidism nos,1
+12729831000006100,other acquired hypothyroidism,1
+136211012,thyroiditis,1
+147605012,riedel's thyroiditis,1
+1539151000006110,secondary hypothyroidism,1
+178809013,acquired hypothyroidism,1
+1823931000006110,hypothyroidism confirmed,1
+196525014,toxic multinodular goitre,1
+200396013,toxic uninodular goitre,1
+208391000006113,pretibial myxoedema - hypothyroid,1
+211321000006115,postinfectious hypothyroidism,1
+2695192017,de quervain's thyroiditis,1
+2838091000006110,hypothyroid coma,1
+2849751000006110,hashimoto thyroiditis,1
+2849761000006110,autoimmune lymphocytic chronic thyroiditis,1
+2849771000006110,lymphocytic thyroiditis,1
+2849831000006110,hashimoto's thyroiditis,1
+2907531000006110,pyogenic thyroiditis,1
+2922501000006110,thyrotoxicosis due to multinodular goitre,1
+2922511000006110,thyrotoxicosis with toxic multinodular goitre,1
+2922531000006110,toxic multinodular thyroid goitre,1
+292284013,simple and unspecified goitre,1
+292327018,toxic diffuse goitre with no crisis,1
+292330013,toxic diffuse goitre with crisis,1
+292331012,toxic diffuse goitre nos,1
+292334016,toxic uninodular goitre with no crisis,1
+292335015,toxic uninodular goitre with crisis,1
+292338018,toxic uninodular goitre nos,1
+292339014,toxic multinodular goitre with no crisis,1
+292342015,toxic multinodular goitre with crisis,1
+292343013,toxic multinodular goitre nos,1
+292346017,toxic nodular goitre unspecified,1
+292347014,toxic nodular goitre unspecified with no crisis,1
+292350012,toxic nodular goitre unspecified with crisis,1
+292354015,toxic nodular goitre nos,1
+292366014,thyrotoxicosis without mention of goitre or other cause,1
+292400016,other iatrogenic hypothyroidism,1
+292404013,iatrogenic hypothyroidism nos,1
+292408011,other acquired hypothyroidism,1
+292420015,acute thyroiditis,1
+292422011,acute thyroiditis nos,1
+292435019,other and unspecified chronic thyroiditis,1
+292437010,thyroiditis nos,1
+293751017,[x]other chronic thyroiditis,1
+297611000006111,nontoxic multinodular goitre,1
+297621000006115,nontoxic nodular goitre,1
+297631000006117,nontoxic nodular goitre nos,1
+297641000006110,nontoxic uninodular goitre,1
+3123421000006110,pseudogranulomatous thyroiditis,1
+3159171000006110,hypothyroid,1
+317850019,[d]thyroid function test abnormal,1
+317853017,[d]thyroid function tests abnormal nos,1
+3511871000006110,toxic multinodular goitre with thyrotoxic crisis,1
+3511901000006110,toxic multinodular goitre with thyrotoxic storm,1
+355926018,thyroid nodule,1
+355932011,toxic goitre,1
+355961012,"hypothyroid goitre, acquired",1
+355987012,chronic thyroiditis with transient thyrotoxicosis,1
+36888019,hashimoto's disease,1
+3700951000006110,toxic thyroid nodule,1
+3700961000006110,thyrotoxicosis with toxic single thyroid nodule,1
+3843671000006110,secondary hypothyroidism,1
+3843691000006110,pituitary hypothyroidism,1
+3843711000006110,hypothyrotropic hypothyroidism,1
+3862381000006110,primary hypothyroidism and adrenocortical insufficiency,1
+3872531000006110,fibrous autoimmune thyroiditis,1
+3872541000006110,noninvasive fibrous thyroiditis,1
+3872551000006110,"chronic thyroiditis, fibrous variant",1
+3872561000006110,"hashimoto thyroiditis, fibrous variant",1
+3927641000006110,hypothyroid myopathy,1
+3946951000006110,woody thyroiditis,1
+3946971000006110,ligneous thyroiditis,1
+3946981000006110,invasive fibrous thyroiditis,1
+3946991000006110,riedel thyroiditis,1
+398769011,goitre nos,1
+398780011,toxic diffuse goitre,1
+398784019,hypothyroidism nos,1
+406721000000115,hypothyroidism monitoring telephone invitation,1
+413721000006119,[x]other sp cified hypothyroidism,1
+416051000006119,[x]other specified nontoxic goitre,1
+4197341000006110,primary hypothyroidism,1
+42711014,acute suppurative thyroiditis,1
+4539511000006110,history of hyperthyroidism,1
+4539531000006110,history of hypothyroidism,1
+456102013,thyroid function tests abnormal,1
+458591000006113,acute nonsuppurative thyroiditis,1
+472452010,graves' disease,1
+4757611000006110,non-toxic single thyroid nodule,1
+4757911000006110,acute non-suppurative thyroiditis,1
+481187014,chronic lymphocytic thyroiditis,1
+481188016,autoimmune thyroiditis,1
+486645012,struma - goitre,1
+5108341000006110,"hypothyroid goiter, acquired",1
+5108351000006110,autoimmune hypothyroidism,1
+5108381000006110,hypothyroidism with positive thyroid antibodies,1
+5108491000006110,post-infectious hypothyroidism,1
+554221000006113,chronic fibrous thyroiditis,1
+57561015,hyperthyroidism,1
+637341000000118,hypothyroidism annual review,1
+64445010,subacute thyroiditis,1
+68268011,hypothyroidism,1
+7082501000006110,subacute granulomatous thyroiditis,1
+7082511000006110,granulomatous thyroiditis,1
+7082521000006110,non-suppurative subacute thyroiditis,1
+7082541000006110,giant cell thyroiditis,1
+881331000006113,"goitre - simple, unspecified",1
+881351000006118,goitre -simple/nodular-non tox,1
+881361000006116,"non toxic, multinodular goitre",1
+881371000006111,thyrotoxicosis +/- goitre,1
+881391000006112,acquired hypothyroidism nos,1
+881401000006114,chronic thyroiditis,1
+905741000006112,[rfc] hyperthyroidism,1
+988831000006119,acquired hypothyroidism nos,1
+101171000006116,thyroid deficiency,1
+11903731000006100,goiter,1
+12724051000006100,simple and unspecified goitre,1
+150375010,thyrotoxicosis,1
+2558171000006110,struma - goiter,1
+2558181000006110,thyroid goiter,1
+2558191000006110,thyroid goitre,1
+2838081000006110,myxedema coma,1
+2922461000006110,toxic multinodular goiter,1
+2922481000006110,thyrotoxicosis due to multinodular goiter,1
+2922491000006110,thyrotoxicosis with toxic multinodular goiter,1
+2922521000006110,toxic multinodular thyroid goiter,1
+292361016,thyrotoxicosis of other specified origin with no crisis,1
+292362011,thyrotoxicosis of other specified origin with crisis,1
+292365013,thyrotoxicosis of other specified origin nos,1
+292372014,thyrotoxicosis nos,1
+293750016,[x]other thyrotoxicosis,1
+3084111000006110,non-toxic multinodular goiter,1
+3084121000006110,multinodular non-toxic goiter,1
+3084131000006110,multinodular non-toxic goitre,1
+317852010,[d]thyroid uptake abnormal,1
+3438791000006110,toxic nodular goiter,1
+3438801000006110,toxic adenomatous goiter,1
+3438811000006110,toxic struma nodosa,1
+3438831000006110,toxic adenomatous goitre,1
+3511881000006110,toxic multinodular goiter with thyrotoxic crisis,1
+3511891000006110,toxic multinodular goiter with thyrotoxic storm,1
+355964016,autoimmune myxoedema,1
+35727012,myxoedema coma,1
+3627481000006110,toxic uninodular goitre with thyrotoxic crisis,1
+3627491000006110,toxic uninodular goiter with thyrotoxic crisis,1
+3627501000006110,toxic uninodular goiter with thyrotoxic storm,1
+3627511000006110,toxic uninodular goitre with thyrotoxic storm,1
+3700941000006110,toxic uninodular goiter,1
+3700971000006110,thyrotoxicosis due to uninodular goitre,1
+3700981000006110,thyrotoxicosis due to uninodular goiter,1
+3700991000006110,toxic uninodular thyroid goitre,1
+3701001000006110,toxic uninodular thyroid goiter,1
+3843681000006110,tsh - thyroid stimulating hormone deficiency,1
+3862321000006110,"polyglandular autoimmune syndrome, type 2",1
+3862331000006110,aps type 2,1
+3862351000006110,type 2 polyendocrine autoimmunity syndrome,1
+3862391000006110,polyglandular autoimmune syndrome - type ii,1
+3862411000006110,pga - polyglandular autoimmune syndrome - type ii,1
+3927651000006110,myxedema myopathy,1
+3927661000006110,myxoedema myopathy,1
+398782015,thyrotoxicosis of other specified origin,1
+4757571000006110,non-toxic nodular goiter,1
+4757581000006110,nontoxic nodular thyroid goitre,1
+4757591000006110,nontoxic nodular thyroid goiter,1
+4757621000006110,non-toxic uninodular goiter,1
+4757631000006110,nontoxic uninodular thyroid goiter,1
+4757641000006110,nontoxic uninodular thyroid goitre,1
+4757661000006110,toxic diffuse goiter with no crisis,1
+4757681000006110,toxic diffuse goiter with crisis,1
+4757701000006110,toxic uninodular goiter with no crisis,1
+4757741000006110,toxic multinodular goiter with no crisis,1
+5108021000006110,toxic goiter,1
+5108361000006110,autoimmune myxedema,1
+5499971000006110,non-toxic goiter,1
+5499981000006110,non-toxic simple goiter,1
+5499991000006110,simple goiter,1
+5500001000006110,non-toxic simple goitre,1
+5500011000006110,non-toxic goitre,1
+5500041000006110,thyrotoxicosis with diffuse goitre,1
+5500051000006110,diffuse toxic goitre,1
+5500061000006110,toxic primary thyroid hyperplasia,1
+5500071000006110,thyrotoxicosis with diffuse goiter,1
+5500081000006110,toxic diffuse goiter,1
+5500091000006110,diffuse toxic goiter,1
+5500101000006110,toxic diffuse thyroid goitre,1
+5500111000006110,toxic diffuse thyroid goiter,1
+5720991000006110,thyrotoxicosis with or without goitre,1
+5721001000006110,thyrotoxicosis with or without goiter,1
+6196421000006110,exophthalmic goiter,1
+6196431000006110,exophthalmic goitre,1
+6196461000006110,graves disease,1
+881341000006115,"goitre, non-toxic nos",1
+88781000006119,tsh - thyroid-stimulating hormone deficiency,1
