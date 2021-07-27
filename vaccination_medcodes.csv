@@ -1,0 +1,17 @@
+medcodeid,term,snomedctdescriptionid,type,covid,v6,vaccine
+12990521000006119,2019 novel coronavirus vaccination,2808751000000116,Vaccination,6,6,1
+13482991000006119,2019 novel coronavirus vaccination,3902341013,Vaccination,6,6,1
+13483541000006111,2019-nCoV (novel coronavirus) immunisation course started,2837901000000111,Vaccination,6,6,1
+12990501000006112,2019-nCoV (novel coronavirus) vaccination,2807821000000115,Vaccination,6,6,1
+13483021000006111,2019-nCoV (novel coronavirus) vaccination,2833671000000117,Vaccination,6,6,1
+13483241000006114,Administration of first dose of 2019-nCoV (novel coronavirus) vaccine,2837381000000117,Vaccination,6,6,1
+13483231000006116,Administration of first dose of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) vaccine,2837371000000119,Vaccination,6,6,1
+13483261000006113,Administration of second dose of 2019-nCoV (novel coronavirus) vaccine,2837421000000114,Vaccination,6,6,1
+13483251000006111,Administration of second dose of SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) vaccine,2837411000000115,Vaccination,6,6,1
+13483011000006115,COVID-19 vaccination,3950925017,Vaccination,6,6,1
+13483221000006119,Immunisation course to achieve immunity against 2019-nCoV (novel coronavirus),2837341000000113,Vaccination,6,6,1
+13483211000006110,Immunisation course to achieve immunity against SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),2837321000000118,Vaccination,6,6,1
+13483531000006118,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) immunisation course started,2837891000000110,Vaccination,6,6,1
+13482981000006117,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) vaccination,2833591000000119,Vaccination,6,6,1
+13012221000006119,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) vaccination,2827001000000114,Vaccination,6,6,1
+12990511000006110,Wuhan 2019-nCoV (novel coronavirus) vaccination,2807831000000118,Vaccination,6,6,1

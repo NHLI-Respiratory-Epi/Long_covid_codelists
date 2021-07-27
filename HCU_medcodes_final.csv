@@ -1,0 +1,854 @@
+medcodeid,term,primary,ae,op,hospital
+1981171000006115,a&e arrival mode - brought in by emergency ambulance,,1,,
+1981181000006117,a&e arrival mode - other,,1,,
+841501000006118,a&e attendance,,1,,
+1981761000006114,a&e attendance - admitted to hospital bed/lodged patient,,1,,
+1981831000006113,a&e attendance - died in department,,1,,
+1981781000006116,a&e attendance - discharged no follow up treatment required,,1,,
+1981771000006119,a&e attendance - discharged with follow up treatment by gp,,1,,
+1981851000006118,a&e attendance - left department before being seen for treatment,,1,,
+1981861000006116,a&e attendance - left department having refused treatment,,1,,
+1981871000006111,a&e attendance - other disposal,,1,,
+1981791000006118,a&e attendance - referred to a&e clinic,,1,,
+1981801000006117,a&e attendance - referred to fracture clinic,,1,,
+1981841000006115,a&e attendance - referred to other health care professional,,1,,
+1981811000006119,a&e attendance - referred to other out-patient clinic,,1,,
+1981821000006110,a&e attendance - transferred to other health care provider,,1,,
+1981471000006114,a&e incident location type - educational establishment,,1,,
+1981451000006116,a&e incident location type - home,,1,,
+1981491000006110,a&e incident location type - other,,1,,
+1981481000006112,a&e incident location type - public place,,1,,
+1981461000006119,a&e incident location type - work,,1,,
+62021000000110,a&e report,,1,,
+1981431000006111,a&e source of referral - community dental service,,1,,
+1981381000006115,a&e source of referral - educational establishment,,1,,
+1981361000006113,a&e source of referral - emergency services,,1,,
+1981421000006113,a&e source of referral - general dental practitioner,,1,,
+1981331000006116,a&e source of referral - general medical practitioner,,1,,
+1981351000006111,a&e source of referral - local authority social services,,1,,
+1981411000006117,a&e source of referral - other,,1,,
+1981391000006117,a&e source of referral - police,,1,,
+1981401000006115,a&e source of referral - same or other healthcare provider,,1,,
+1981341000006114,a&e source of referral - self referral,,1,,
+1981371000006118,a&e source of referral - work,,1,,
+1994171000006118,a&e treatment: eye - laser of retina/iris or posterior capsule,,1,,
+1994181000006115,a&e treatment: occupational therapy - activities of daily living equip provision,,1,,
+1994161000006113,a&e treatment: occupational therapy - ot functional assessment,,1,,
+1993941000006113,a&e treatment: recall/x-ray review,,1,,
+1777661000006114,activity location: out-patient clinic,,,1,
+1777591000006117,activity location: polyclinic,,,1,
+7566941000006110,acute pain clinic,,,1,
+1764421000006118,admission avoidance hospital at home started,1,,,
+5938191000006115,admission by clinical allergist,,,,1
+5938111000006113,admission by clinical biochemist,,,,1
+5963931000006116,admission by clinical haematologist,,,,1
+5963941000006114,admission by clinical hematologist,,,,1
+5938261000006116,admission by clinical immunologist,,,,1
+5938271000006111,admission by clinical neurophysiologist,,,,1
+5937751000006114,admission by clinical oncologist,,,,1
+5938281000006114,admission by clinical pharmacologist,,,,1
+5938291000006112,admission by clinical physiologist,,,,1
+5938971000006118,admission by hospital midwife,,,,1
+5938961000006113,admission by hospital-based midwife,,,,1
+5939251000006110,admission to care of the elderly day hospital,,,,1
+5939411000006110,admission to clinical allergy department,,,,1
+5939911000006118,admission to clinical biochemistry department,,,,1
+5939571000006119,admission to clinical cytogenetics department,,,,1
+5939561000006114,admission to clinical genetics department,,,,1
+5939471000006118,admission to clinical immunology department,,,,1
+5939581000006116,admission to clinical molecular genetics department,,,,1
+5939481000006115,admission to clinical neurophysiology department,,,,1
+5976621000006113,admission to clinical oncology department,,,,1
+5939491000006117,admission to clinical pharmacology department,,,,1
+5939501000006113,admission to clinical physiology department,,,,1
+447726018,admission to community hospital,,,,1
+5939191000006113,admission to day hospital,,,,1
+5939221000006118,admission to elderly mentally ill day hospital,,,,1
+5939241000006113,admission to elderly severely mentally ill day hospital,,,,1
+5939111000006115,admission to general practice hospital,,,,1
+5939261000006112,admission to geriatric day hospital,,,,1
+5939101000006118,admission to gp hospital,,,,1
+1936211000006119,admission to hospice from acute hospital,,,,1
+1936261000006116,admission to hospice from community hospital,,,,1
+1227951014,admission to hospital,,,,1
+5939131000006114,admission to long stay hospital,,,,1
+5939231000006115,admission to old age psychiatry day hospital,,,,1
+5939121000006111,admission to private hospital,,,,1
+5939201000006111,admission to psychiatric day hospital,,,,1
+5939211000006114,admission to psychogeriatric day hospital,,,,1
+5939141000006116,admission to tertiary referral hospital,,,,1
+283552011,admit hospital emergency nos,,,,1
+950731000006115,admitted civilian hospital,,,,1
+950721000006118,admitted service hospital,,,,1
+1583651000006112,admitted: hospital,,,,1
+7567041000006111,after hours clinic,1,,,
+7566961000006114,allergy clinic,,,1,
+7567061000006110,anticoagulation clinic,,,1,
+1928341000006114,appointment made at extended hours clinic - esa,1,,,
+1955941000006117,appropriate non-elective hospital admission,,,,1
+7567071000006115,asthma clinic,,,1,
+26101000000112,asthma clinic administration,,,1,
+300371000000111,asthma outreach clinic,,,1,
+1874781000006116,attended a&e,,1,,
+1152391000000113,attended extended hours clinic,1,,,
+1716281000006114,attended extended hours clinic - esa,1,,,
+459258013,attending cardiology clinic,,,1,
+1780492014,attending chest clinic,,,1,
+456685013,attending clinic,,,1,
+456686014,attending diabetes clinic,,,1,
+406091000000115,attending leg ulcer clinic,,,1,
+498811000006112,attends outpatients,,,1,
+6718421000006112,attends psychiatric outpatient clinic,,,1,
+7567081000006117,audiology clinic,,,1,
+7567141000006110,cardiology clinic,,,1,
+6029451000006115,cardiology emergency hospital admission,,,,1
+457274011,cardiology emergency hospital admission,,,,1
+4723741000006116,cardiothoracic emergency hospital admission,,,,1
+283549015,cardiothoracic emergency hospital admission,,,,1
+285879017,cardiovascular clinic,,,1,
+7567251000006116,chronic obstructive pulmonary disease clinic,,,1,
+7567261000006119,chronic pain clinic,,,1,
+1672471000006112,clinic,1,,,
+5994071000006118,clinical allergy department,,,1,
+5995631000006112,clinical allergy service,,,1,
+8313421000006112,clinical allergy service,,,1,
+904801000006118,clinical immunology and allergy referral,,,1,
+8313201000006115,clinical immunology and allergy service,,,1,
+7825561000006116,clinical immunology and allergy specialist,,,1,
+5993831000006112,clinical oncology department,,,1,
+968351000006119,clinical oncology referral,,,1,
+5995431000006114,clinical oncology service,,,1,
+1672481000006110,community clinic,1,,,
+63481000000111,community clinic note,1,,,
+940801000006117,community clinical terms project,1,,,
+1563331000006112,community health clinic,1,,,
+4945611000006117,community hospital,1,,,
+7807031000006116,congestive heart failure clinical management plan,,,1,
+1860181000006118,date of last hospital admission,,,,1
+608281000006119,death in hospital,,,,1
+608301000006115,death notification - non-hospital source,,,,1
+1655711000000110,declined consent for researcher to access clinical record,,,,1
+7567311000006114,deep vein thrombosis clinic,,,1,
+7567331000006115,dermatology clinic,,,1,
+4723511000006110,dermatology emergency hospital admission,,,,1
+283537016,dermatology emergency hospital admission,,,,1
+285477011,dermatology outreach clinic,,,1,
+7565341000006118,diabetes clinic,,,1,
+25261000000111,diabetes clinic administration,,,1,
+7567341000006113,diabetes foot care clinic,,,1,
+4723641000006110,diabetic emergency hospital admission,,,,1
+283544013,diabetic emergency hospital admission,,,,1
+283820019,died in hospital,,,,1
+1951201000006112,discharge to acute hospital,,,,1
+449808016,discharge to community hospital,,,,1
+449806017,discharge to hospital,,,,1
+8439271000006114,discharge to hospital at home service,,,,1
+5959601000006113,discharge to long stay hospital,,,,1
+5959621000006115,discharge to tertiary referral hospital,,,,1
+7567391000006116,"ear, nose and throat clinic",,,1,
+4723441000006113,"ear, nose and throat emergency hospital admission",,,,1
+411571010,elderly assessment clinic,,,1,
+1988051000006118,electronic prescription service exception - dispensing general practice not yet electronic prescription service compliant,,1,,
+11997171000006111,emergency care attendance category - unplanned first emergency care attendance for a new clinical condition (or deterioration of a chronic condition),,1,,
+283520011,emergency hospital admission,,,,1
+4723761000006117,emergency hospital admission for asthma,,,,1
+283550015,emergency hospital admission for asthma,,,,1
+6763231000006119,emergency hospital admission for chronic obstructive pulmonary disease,,,,1
+2160051010,emergency hospital admission for chronic obstructive pulmonary disease,,,,1
+6763251000006114,emergency hospital admission for copd (chronic obstructive pulmonary disease),,,,1
+6895651000006113,emergency hospital admission for heart failure,,,,1
+2549208013,emergency hospital admission for heart failure,,,,1
+585631000000113,emergency hospital admission for ischaemic heart disease,,,,1
+7518981000006118,emergency hospital admission for ischaemic heart disease,,,,1
+7519001000006115,emergency hospital admission for ischemic heart disease,,,,1
+2186461000000117,emergency hospital admission from walk-in centre,,,,1
+8458471000006117,emergency hospital admission to accident and emergency service,,,,1
+8454501000006115,emergency hospital admission to addiction service,,,,1
+8454611000006116,emergency hospital admission to adult cystic fibrosis service,,,,1
+8458371000006113,emergency hospital admission to adult mental health service,,,,1
+8458381000006111,emergency hospital admission to adult mental illness service,,,,1
+8454081000006119,emergency hospital admission to allergy service,,,,1
+8454751000006113,emergency hospital admission to audiological medicine service,,,,1
+8454741000006111,emergency hospital admission to blood and marrow transplantation service,,,,1
+8453091000006118,emergency hospital admission to breast surgery service,,,,1
+8454511000006117,emergency hospital admission to burn care service,,,,1
+8453411000006115,emergency hospital admission to cardiac rehabilitation service,,,,1
+8453011000006111,emergency hospital admission to cardiac surgery service,,,,1
+8453111000006110,emergency hospital admission to cardiothoracic transplantation surgery service,,,,1
+8454031000006115,emergency hospital admission to child and adolescent psychiatry service,,,,1
+8454761000006110,emergency hospital admission to clinical genetics service,,,,1
+8453811000006117,emergency hospital admission to clinical immunology and allergy service,,,,1
+8454071000006117,emergency hospital admission to clinical immunology service,,,,1
+8453841000006118,emergency hospital admission to clinical neurophysiology service,,,,1
+8453941000006111,emergency hospital admission to clinical oncology service,,,,1
+8453781000006119,emergency hospital admission to clinical pharmacology service,,,,1
+8453101000006112,emergency hospital admission to colorectal surgery service,,,,1
+8453061000006114,emergency hospital admission to community paediatric service,,,,1
+8458391000006114,emergency hospital admission to complex specialised rehabilitation service,,,,1
+8454791000006119,emergency hospital admission to congenital heart disease service,,,,1
+8453331000006119,emergency hospital admission to critical care medicine service,,,,1
+8458401000006111,emergency hospital admission to dental medicine specialties service,,,,1
+8453911000006112,emergency hospital admission to eating disorders service,,,,1
+8453321000006117,emergency hospital admission to endocrinology service,,,,1
+8453881000006112,emergency hospital admission to forensic psychiatry service,,,,1
+8453311000006113,emergency hospital admission to gastroenterology service,,,,1
+8453341000006112,emergency hospital admission to general medical service,,,,1
+8453071000006119,emergency hospital admission to general surgical service,,,,1
+8453831000006111,emergency hospital admission to genitourinary medicine service,,,,1
+8454041000006113,emergency hospital admission to gynaecological oncology service,,,,1
+8453791000006116,emergency hospital admission to haemophilia service,,,,1
+8454681000006111,emergency hospital admission to hepatobiliary and pancreatic surgery service,,,,1
+8453351000006114,emergency hospital admission to hepatology service,,,,1
+8454631000006110,emergency hospital admission to infectious diseases service,,,,1
+8453391000006115,emergency hospital admission to intermediate care service,,,,1
+8453951000006113,emergency hospital admission to interventional radiology service,,,,1
+8458421000006118,emergency hospital admission to learning disability service,,,,1
+8458441000006113,emergency hospital admission to local specialist rehabilitation service,,,,1
+8452951000006118,emergency hospital admission to maxillofacial surgery service,,,,1
+8453991000006119,emergency hospital admission to medical oncology service,,,,1
+8454051000006110,emergency hospital admission to medical ophthalmology service,,,,1
+8453861000006119,emergency hospital admission to midwifery service,,,,1
+8454651000006115,emergency hospital admission to neonatal critical care service,,,,1
+8454001000006111,emergency hospital admission to nuclear medicine service,,,,1
+8453671000006110,emergency hospital admission to orthodontics service,,,,1
+8454711000006112,emergency hospital admission to paediatric audiological medicine service,,,,1
+8454061000006112,emergency hospital admission to paediatric burn care service,,,,1
+8453211000006116,emergency hospital admission to paediatric cardiac surgery service,,,,1
+8453401000006118,emergency hospital admission to paediatric cardiology service,,,,1
+8454531000006111,emergency hospital admission to paediatric clinical haematology service,,,,1
+8454721000006116,emergency hospital admission to paediatric clinical immunology and allergy service,,,,1
+8454581000006112,emergency hospital admission to paediatric cystic fibrosis service,,,,1
+8453661000006115,emergency hospital admission to paediatric dentistry service,,,,1
+8453271000006113,emergency hospital admission to paediatric dermatology service,,,,1
+8453741000006113,emergency hospital admission to paediatric diabetes service,,,,1
+8453161000006113,"emergency hospital admission to paediatric ear, nose and throat service",,,,1
+8453251000006115,emergency hospital admission to paediatric endocrinology service,,,,1
+8454701000006114,emergency hospital admission to paediatric epilepsy service,,,,1
+8453241000006117,emergency hospital admission to paediatric gastroenterology service,,,,1
+8453141000006114,emergency hospital admission to paediatric gastrointestinal surgery service,,,,1
+8454551000006116,emergency hospital admission to paediatric infectious diseases service,,,,1
+8453691000006111,emergency hospital admission to paediatric intensive care service,,,,1
+8453761000006112,emergency hospital admission to paediatric interventional radiology service,,,,1
+8453181000006115,emergency hospital admission to paediatric maxillofacial surgery service,,,,1
+8453731000006115,emergency hospital admission to paediatric medical oncology service,,,,1
+8454571000006114,emergency hospital admission to paediatric metabolic disease service,,,,1
+8453291000006114,emergency hospital admission to paediatric nephrology service,,,,1
+8453771000006117,emergency hospital admission to paediatric neurodisability service,,,,1
+8454641000006117,emergency hospital admission to paediatric neurology service,,,,1
+8453191000006117,emergency hospital admission to paediatric neurosurgery service,,,,1
+8453171000006118,emergency hospital admission to paediatric ophthalmology service,,,,1
+8453231000006110,emergency hospital admission to paediatric pain management service,,,,1
+8453201000006119,emergency hospital admission to paediatric plastic surgery service,,,,1
+8453281000006111,emergency hospital admission to paediatric respiratory medicine service,,,,1
+8453301000006110,emergency hospital admission to paediatric rheumatology service,,,,1
+8453681000006113,emergency hospital admission to paediatric surgical service,,,,1
+8453221000006112,emergency hospital admission to paediatric thoracic surgery service,,,,1
+8453711000006114,emergency hospital admission to paediatric transplantation surgery service,,,,1
+8453721000006118,emergency hospital admission to paediatric trauma and orthopaedics surgery service,,,,1
+8453131000006116,emergency hospital admission to paediatric urology service,,,,1
+8453121000006119,emergency hospital admission to pain management service,,,,1
+8453361000006111,emergency hospital admission to palliative medicine service,,,,1
+8454671000006113,emergency hospital admission to perinatal psychiatry service,,,,1
+8453851000006116,emergency hospital admission to podiatric surgery service,,,,1
+8458451000006110,emergency hospital admission to programmed pulmonary rehabilitation service,,,,1
+8454011000006114,emergency hospital admission to psychiatric intensive care service,,,,1
+8454661000006118,emergency hospital admission to psychotherapy service,,,,1
+8454771000006115,emergency hospital admission to rehabilitation service,,,,1
+8454111000006113,emergency hospital admission to respiratory physiology service,,,,1
+8453381000006118,emergency hospital admission to respite care service,,,,1
+8453971000006115,emergency hospital admission to restorative dentistry service,,,,1
+8454091000006116,emergency hospital admission to spinal injuries service,,,,1
+8454691000006114,emergency hospital admission to spinal surgery service,,,,1
+8454781000006117,emergency hospital admission to sport and exercise medicine service,,,,1
+8453821000006113,emergency hospital admission to stroke service,,,,1
+8453021000006115,emergency hospital admission to thoracic surgery service,,,,1
+8454601000006119,emergency hospital admission to transient ischaemic attack service,,,,1
+8453081000006116,emergency hospital admission to transplantation surgery service,,,,1
+8453701000006111,emergency hospital admission to trauma and orthopaedics service,,,,1
+8453981000006117,emergency hospital admission to tropical medicine service,,,,1
+8453961000006110,emergency hospital admission to upper gastrointestinal surgery service,,,,1
+8458461000006112,emergency hospital admission to well babies specialty,,,,1
+7567411000006116,endocrinology clinic,,,1,
+4723421000006118,ent emergency hospital admission,,,,1
+283533017,ent emergency hospital admission,,,,1
+1773281000006112,first outpatient appointment,,,1,
+2533967016,first outpatient appointment date,,,1,
+11639681000006118,follow-up by clinical nurse specialist,,,1,
+763571000006116,follow-up in outpatient clinic,,,1,
+1773291000006110,follow-up outpatient appointment,,,1,
+3018361000006119,free-standing allergy clinic,,,1,
+2522851000006110,free-standing breast clinic,,,1,
+3592551000006111,free-standing clinic,,,1,
+2853671000006113,free-standing dental clinic,,,1,
+2853681000006111,free-standing dental health clinic,,,1,
+2845231000006110,free-standing dermatology clinic,,,1,
+3876871000006111,free-standing endocrinology clinic,,,1,
+2763051000006116,free-standing eye clinic,,,1,
+3409041000006116,free-standing family medicine clinic,,,1,
+2706641000006116,free-standing gastroenterology clinic,,,1,
+3088201000006114,free-standing general surgery clinic,,,1,
+3174301000006112,free-standing geriatric clinic,,,1,
+3174311000006110,free-standing gerontology clinic,,,1,
+3989241000006111,free-standing gynaecology clinic,,,1,
+3989251000006113,free-standing gynecology clinic,,,1,
+2559101000006113,free-standing haematology clinic,,,1,
+2559111000006111,free-standing hematology clinic,,,1,
+3018351000006116,free-standing immunology clinic,,,1,
+3624501000006119,free-standing infectious disease clinic,,,1,
+3335441000006112,free-standing mental health clinic,,,1,
+2767971000006115,free-standing neurology clinic,,,1,
+3413471000006118,free-standing obstetrical clinic,,,1,
+4218721000006116,free-standing oncology clinic,,,1,
+2763041000006118,free-standing ophthalmology clinic,,,1,
+3511631000006112,free-standing orl clinic,,,1,
+3352561000006116,free-standing orthopaedics clinic,,,1,
+3352571000006111,free-standing orthopedics clinic,,,1,
+3511621000006114,free-standing otorhinolaryngology clinic,,,1,
+3841241000006113,free-standing paediatric clinic,,,1,
+3139371000006119,free-standing pain clinic,,,1,
+3841251000006110,free-standing pediatric clinic,,,1,
+2677051000006111,free-standing peripheral vascular clinic,,,1,
+2716531000006112,free-standing physiatry clinic,,,1,
+2716521000006114,free-standing physical medicine clinic,,,1,
+3422281000006117,free-standing pneumology clinic,,,1,
+3335451000006114,free-standing psychiatric clinic,,,1,
+3223681000006114,free-standing rehabilitation clinic,,,1,
+3422271000006115,free-standing respiratory disease clinic,,,1,
+3635951000006114,free-standing rheumatology clinic,,,1,
+3230571000006115,free-standing urology clinic,,,1,
+7567461000006118,gastroenterology clinic,,,1,
+300341000000117,general medicine outreach clinic,,,1,
+3147991000006114,general outpatient clinic admission,,,,1
+5574961000006112,geriatric clinic,,,1,
+21651000000112,geriatric clinic admin.,,,1,
+4723291000006115,geriatric emergency hospital admission,,,,1
+283525018,geriatric emergency hospital admission,,,,1
+3382171000006113,geriatric hospital,,,,1
+4723341000006117,gynaecological emergency hospital admission,,,,1
+12761931000006113,gynaecological emergency hospital admission,,,,1
+7567491000006114,gynaecology clinic,,,1,
+300271000000118,gynaecology outreach clinic,,,1,
+4723361000006118,gynecological emergency hospital admission,,,,1
+7567501000006118,gynecology clinic,,,1,
+8463691000006117,h/o hospital admission for psychiatric disorder,,,,1
+904741000006111,haematology (clinical) referral,,,1,
+7567531000006114,haematology clinic,,,1,
+283541017,haematology emergency hospital admission,,,,1
+4723591000006117,haematology emergency hospital admission,,,,1
+4309731000006119,hairy cell leukaemia (clinical),,,1,
+7044731000006115,hap - hospital acquired pneumonia,,,1,
+7567521000006111,headache clinic,,,1,
+7567541000006116,hematology clinic,,,1,
+4723611000006111,hematology emergency hospital admission,,,,1
+7567561000006117,hemophilia clinic,,,1,
+1672461000006117,hospital,,,,1
+283592013,hospital admission,,,,1
+2522381000006113,hospital admission for isolation,,,,1
+3516811012,hospital admission from dialysis facility,,,,1
+7976081000006119,hospital admission from non-health care facility,,,,1
+62121000000114,hospital admission note,,,,1
+3849401000006111,"hospital admission, blood donor",,,,1
+4213471000006115,"hospital admission, boarder, for social reasons",,,,1
+3650861000006111,"hospital admission, by legal authority (commitment)",,,,1
+3326931000006118,"hospital admission, donor for transplant organ",,,,1
+2639061000006119,"hospital admission, elective",,,,1
+4213461000006110,"hospital admission, elective, with complete pre-admission work-up",,,,1
+2747211000006110,"hospital admission, elective, with partial pre-admission work-up",,,,1
+3828171000006117,"hospital admission, elective, without pre-admission work-up",,,,1
+3779761000006116,"hospital admission, emergency, direct",,,,1
+3696791000006119,"hospital admission, emergency, from emergency room",,,,1
+2665021000006115,"hospital admission, emergency, from emergency room, accidental injury",,,,1
+2816831000006113,"hospital admission, emergency, from emergency room, medical nature",,,,1
+1823531000006111,"hospital admission, emergency, from walk-in centre",,,,1
+1728541000006114,"hospital admission, emergency, indirect",,,,1
+3743841000006111,"hospital admission, for observation",,,,1
+2874641000006117,"hospital admission, for research investigation",,,,1
+3533511000006110,"hospital admission, from remote area, by means of special transportation",,,,1
+3475441000006118,"hospital admission, infant, for observation, delivered outside of hospital",,,,1
+3355291000006118,"hospital admission, involuntary",,,,1
+3659651000006117,"hospital admission, limited to designated procedures",,,,1
+3265501000006112,"hospital admission, mother, for observation, delivered outside of hospital",,,,1
+3334511000006110,"hospital admission, parent, for in-hospital child care",,,,1
+2639071000006114,"hospital admission, planned",,,,1
+3238161000006115,"hospital admission, precertified by medical audit action",,,,1
+3091941000006112,"hospital admission, pre-nursing home placement",,,,1
+3321091000006111,"hospital admission, short-term",,,,1
+3716861000006114,"hospital admission, short-term, 24 hours",,,,1
+3557761000006112,"hospital admission, short-term, day care",,,,1
+3279631000006111,"hospital admission, special",,,,1
+2571671000006112,"hospital admission, transfer from other hospital or health care facility",,,,1
+2544801000006115,"hospital admission, type unclassified, explain by report",,,,1
+2915861000006117,"hospital admission, under police custody",,,,1
+2534841000006119,"hospital admission, urgent, 48 hours",,,,1
+8104851000006114,hospital based outpatient care,,,1,
+5999431000006112,hospital clinic,,,1,
+1563381000006113,hospital inpatient,,,,1
+397755014,hospital inpatient,,,,1
+1563141000006117,hospital opd,,,1,
+1563391000006111,hospital outpatients - in house,,,1,
+3031621000006116,hospital outpatients department,,,1,
+397754013,hospital patient,,,,1
+1782016,hospital re-admission,,,,1
+6217841000006114,hospital-based outpatient allergy clinic,,,1,
+2908921000006114,hospital-based outpatient breast clinic,,,1,
+3031611000006112,hospital-based outpatient clinic,,,1,
+2662471000006115,hospital-based outpatient dental clinic,,,1,
+2662481000006117,hospital-based outpatient dental health clinic,,,1,
+1672561000006116,hospital-based outpatient department,,,1,
+3104821000006118,hospital-based outpatient dermatology clinic,,,1,
+3699361000006115,hospital-based outpatient emergency care center,,,1,
+3699351000006117,hospital-based outpatient emergency care centre,,,1,
+3699371000006110,hospital-based outpatient emergency room,,,1,
+3697301000006110,hospital-based outpatient endocrinology clinic,,,1,
+3770341000006110,hospital-based outpatient eye clinic,,,1,
+3009401000006118,hospital-based outpatient family medicine clinic,,,1,
+3450101000006116,hospital-based outpatient gastroenterology clinic,,,1,
+3970601000006112,hospital-based outpatient general surgery clinic,,,1,
+2527441000006112,hospital-based outpatient geriatric clinic,,,1,
+2527451000006114,hospital-based outpatient gerontology clinic,,,1,
+2859281000006111,hospital-based outpatient gynaecology clinic,,,1,
+2859291000006114,hospital-based outpatient gynecology clinic,,,1,
+3414801000006112,hospital-based outpatient haematology clinic,,,1,
+3414811000006110,hospital-based outpatient hematology clinic,,,1,
+6217961000006117,hospital-based outpatient immunology clinic,,,1,
+2544411000006115,hospital-based outpatient infectious disease clinic,,,1,
+2735751000006113,hospital-based outpatient mental health clinic,,,1,
+3115801000006112,hospital-based outpatient neurology clinic,,,1,
+3412911000006111,hospital-based outpatient obstetrical clinic,,,1,
+3962521000006111,hospital-based outpatient oncology clinic,,,1,
+3770331000006117,hospital-based outpatient ophthalmology clinic,,,1,
+2873101000006112,hospital-based outpatient orl clinic,,,1,
+3768961000006118,hospital-based outpatient orthopaedics clinic,,,1,
+3768971000006113,hospital-based outpatient orthopedics clinic,,,1,
+2873091000006118,hospital-based outpatient otorhinolaryngology clinic,,,1,
+2558391000006113,hospital-based outpatient paediatric clinic,,,1,
+3085021000006118,hospital-based outpatient pain clinic,,,1,
+2558401000006110,hospital-based outpatient pediatric clinic,,,1,
+2588581000006110,hospital-based outpatient peripheral vascular clinic,,,1,
+3593531000006111,hospital-based outpatient physiatry clinic,,,1,
+3593521000006113,hospital-based outpatient physical medicine clinic,,,1,
+3428871000006117,hospital-based outpatient pneumology clinic,,,1,
+2735761000006110,hospital-based outpatient psychiatric clinic,,,1,
+3104731000006111,hospital-based outpatient rehabilitation clinic,,,1,
+3428861000006112,hospital-based outpatient respiratory disease clinic,,,1,
+2503721000006113,hospital-based outpatient rheumatology clinic,,,1,
+3318861000006112,hospital-based outpatient urology clinic,,,1,
+7567571000006112,hypertension clinic,,,1,
+26091000000116,hypertension clinic administration,,,1,
+856971000006112,hypertensive clinic,,,1,
+7567581000006110,immunology clinic,,,1,
+1955951000006115,inappropriate non-elective hospital admission,,,,1
+7567601000006117,infectious disease clinic,,,1,
+7567681000006114,internal medicine clinic,,,1,
+971111000006119,intervention - hospital admission,,,,1
+971131000006113,intervention - outpatient appointment,,,1,
+1979441000006112,intervention session type: drop-in clinic,,,1,
+1488570015,joint consultant clinic,,,1,
+1574941000006114,joint consultant clinic referrals,,,1,
+968361000006117,joint consultations clinic referral,,,1,
+250569018,long stay hospital inpatient,,,,1
+736561000006112,long stay hospital inpatient,,,,1
+3016531000006118,long term care hospital,,,,1
+1877281000006116,long term clinical rehabilitation needs,,,,1
+7567711000006110,lymphoedema clinic,,,1,
+4172661000006113,lymphoepithelioid lymphoma (clinical),,,1,
+3133171000006119,medical clinic,,,1,
+3515831000006114,mental hospital,,,1,
+7567751000006111,mood or anxiety disorder clinic,,,1,
+7567761000006113,movement disorder clinic,,,1,
+7567781000006115,nephrology clinic,,,1,
+7567791000006117,neurology clinic,,,1,
+4723531000006116,neurology emergency hospital admission,,,1,
+283538014,neurology emergency hospital admission,,,,1
+7567801000006116,neuromuscular clinic,,,,1
+7567811000006118,neurophysiology clinic,,,1,
+7567821000006114,neuropsychology clinic,,,1,
+7567831000006112,neurosurgery clinic,,,1,
+283548011,neurosurgical emergency hospital admission,,,,1
+4723721000006111,neurosurgical emergency hospital admission,,,,1
+283553018,non-urgent hospital admission,,,,1
+7570081000006114,nurse practitioner clinic,1,,,
+26111000000114,obesity clinic administration,,,1,
+7568351000006114,oncology clinic,,,1,
+3031631000006118,opd - outpatients department,,,1,
+4723471000006117,ophthalmological emergency hospital admission,,,,1
+462221000006116,ophthalmological emergency hospital admission,,,,1
+7567871000006110,ophthalmology clinic,,,1,
+7568361000006111,oral and maxillofacial surgery clinic,,,1,
+4723661000006114,oral surgical emergency hospital admission,,,,1
+283545014,oral surgical emergency hospital admission,,,,1
+7568371000006116,orthopaedic clinic,,,1,
+283532010,orthopaedic emergency hospital admission,,,,1
+4723391000006114,orthopaedic emergency hospital admission,,,,1
+7568381000006118,orthopedic clinic,,,1,
+4723411000006114,orthopedic emergency hospital admission,,,,1
+7567881000006113,osteoporosis clinic,,,1,
+1212307015,outpatient,,,1,
+3528066016,outpatient care management,,,1,
+8243821000006110,outpatient care management,,,1,
+8306231000006118,outpatient care plan,,,1,
+3516990010,outpatient care plan,,,1,
+8049671000006119,outpatient clinic attendance,,,1,
+8256061000006115,outpatient clinic attendance - administration letter,,,1,
+8255991000006117,outpatient clinic attendance - consultant referral letter,,,1,
+8256001000006116,outpatient clinic attendance - gp letter,,,1,
+8256021000006114,outpatient clinic attendance - maxillofacial and tertiary letter,,,1,
+8256041000006119,outpatient clinic attendance - no patient copy letter,,,1,
+8256011000006118,outpatient clinic attendance - patient letter,,,1,
+8256071000006110,outpatient clinic attendance - private practice letter,,,1,
+8256031000006112,outpatient clinic attendance - results letter,,,1,
+8256051000006117,outpatient clinic attendance - safeguarded letter,,,1,
+2343951000000117,outpatient clinic letter received,,,1,
+285476019,outreach clinic,,,1,
+7567891000006111,pacemaker clinic,,,1,
+7567901000006110,pain clinic,,,1,
+7567911000006113,parkinson's disease clinic,,,1,
+284397011,patient in hospital,,,,1
+12452921000006115,patient reviewed at hospital,,,1,
+1672501000006117,prison hospital,,,,1
+1563721000006113,private hospital,,,,1
+5993711000006110,private hospital,,,,1
+4723271000006116,psychiatric emergency hospital admission,,,,1
+283523013,psychiatric emergency hospital admission,,,,1
+3515821000006111,psychiatric hospital,,,,1
+300321000000112,psychiatric outreach clinic,,,1,
+7568181000006115,psychiatry clinic,,,1,
+5993781000006115,psychogeriatric day hospital,,,1,
+4723681000006116,psychogeriatric emergency hospital admission,,,,1
+283546010,psychogeriatric emergency hospital admission,,,,1
+7568191000006117,psychology clinic,,,,1
+1575511000006118,refer to a & e (clinic),,,1,
+451813010,refer to day hospital,,,1,
+2476476011,refer to hospital,,1,,
+283795013,refer to hospital casualty,,1,,
+283801016,refer to hospital casualty nos,,1,,
+184781000006115,refer to hospital eye casualty,,1,,
+283802011,refer to hospital opd,,,1,
+4725421000006119,refer to hospital outpatient department,,,1,
+283680015,refer to hospital registrar,,1,,
+283685013,refer to pain clinic,,,1,
+8368781000006112,referral to accident and emergency clinic,,1,,
+8259601000006117,referral to alcohol misuse clinic,,,1,
+8296911000006111,referral to anticoagulation clinic,,,1,
+2533402016,referral to asthma clinic,,,1,
+970911000006110,referral to asthma clinic,,,1,
+11930001000006113,referral to atrial fibrillation clinic,,,1,
+1755871000000117,referral to atrial fibrillation clinic,,,1,
+284060014,referral to audiology clinic,,,1,
+284074019,referral to back pain clinic,,,1,
+754831000000118,referral to bone marrow transplantation clinic,,,1,
+457042010,referral to breast clinic,,,1,
+5952901000006114,referral to care of the elderly day hospital,,,1,
+2533421012,referral to cataract clinic,,,1,
+284057019,referral to clinic,,,1,
+1886091000006116,referral to clinic - additional,,,1,
+284078016,referral to clinic nos,,,1,
+449244019,referral to clinical allergist,,,1,
+448999010,referral to clinical allergy service,,,1,
+472781000000111,referral to clinical assessment service,,,1,
+5954031000006111,referral to clinical biochemist,,,1,
+5952131000006116,referral to clinical biochemistry service,,,1,
+5954151000006117,referral to clinical cytogeneticist,,,1,
+5951761000006118,referral to clinical cytogenetics service,,,1,
+5954141000006119,referral to clinical geneticist,,,1,
+5951751000006115,referral to clinical genetics service,,,1,
+5963911000006110,referral to clinical haematologist,,,1,
+5963921000006119,referral to clinical hematologist,,,1,
+451826014,referral to clinical immunologist,,,1,
+4724241000006114,referral to clinical immunology service,,,1,
+8061371000006118,referral to clinical medical officer,,,1,
+1863631000006118,referral to clinical nurse specialist,,,1,
+449300015,referral to clinical nurse specialist,,,1,
+5952051000006112,referral to clinical oncology service,,,1,
+4724431000006117,referral to clinical pharmacologist,,,1,
+5951711000006116,referral to clinical pharmacology service,,,1,
+5954121000006114,referral to clinical physiologist,,,1,
+1575881000006111,referral to clinical physiology,,,1,
+5951721000006112,referral to clinical physiology service,,,1,
+755271000000116,referral to community anticoagulation clinic,1,,,
+8280391000006118,referral to community audiology clinic,1,,,
+1774611000006117,referral to community cardiology clinic,1,,,
+8428531000006117,referral to community diabetes antenatal clinic,1,,,
+2182651000000118,referral to community diabetes clinic,1,,,
+8280621000006112,referral to community leg ulcer clinic,1,,,
+1935951000006116,referral to community nephrology clinic,1,,,
+8280601000006119,referral to community neurology clinic,1,,,
+2182691000000114,referral to community paediatric clinic,1,,,
+1925611000006114,referral to community parkinson's disease clinical nurse specialist,1,,,
+8280571000006114,referral to community rheumatology clinic,1,,,
+8259701000006112,referral to coronary heart disease clinic,,,1,
+5978971000006115,referral to day hospital,,,1,
+7148321000006117,referral to deep vein thrombosis (dvt) clinic,,,1,
+1638531000006113,referral to deep vein thrombosis clinic,,,1,
+601961000000117,referral to deep vein thrombosis clinic,,,1,
+1120171000000114,referral to dermatology clinical assessment service,,,1,
+8259591000006113,referral to diabetic clinic,,,1,
+308811000000110,referral to diabetic eye clinic,,,1,
+7148331000006119,referral to dvt clinic,,,1,
+1780181019,referral to eating disorders clinic,,,1,
+1764491000006116,referral to eating disorders outreach clinic,,,1,
+1137101000000119,referral to eczema clinic,,,1,
+406941000000112,referral to elderly falls prevention clinic,,,1,
+5952961000006110,referral to elderly mentally ill day hospital,,,1,
+284072015,referral to emergency clinic,,,1,
+2112801000000117,referral to epilepsy clinic,,,1,
+535031000000113,referral to fracture clinic,,,1,
+1851351000006112,referral to frailty clinic,,,1,
+1120231000000116,referral to gastroenterology clinical assessment service,,,1,
+2731691000000116,referral to general practice service,1,,,
+2533397015,referral to genitourinary clinic,,,1,
+5952911000006112,referral to geriatric day hospital,,,1,
+2533408017,referral to glaucoma clinic,,,1,
+2287031000000117,referral to haematuria clinic,,,1,
+216246012,referral to heart failure clinic,,,1,
+7535041000006114,referral to hematuria clinic,,,1,
+5999991000006117,referral to hospital,,,1,
+284062018,referral to hypertension clinic,,,1,
+753501000000111,referral to infectious disease clinic,,,1,
+298211000000119,referral to leg ulcer clinic,,,1,
+284058012,referral to lipid clinic,,,1,
+2534215016,referral to memory clinic,,,1,
+299991000000112,referral to multidisciplinary diabetic clinic,,,1,
+2303211000000117,referral to multidisciplinary obesity clinic,,,1,
+8259681000006114,referral to older person clinic,,,1,
+2474275011,referral to osteoporosis clinic,,,1,
+284071010,referral to other clinic,,,1,
+8438941000006117,referral to outpatients department,,,1,
+8259711000006110,referral to pain management clinic,,,1,
+1969711000006110,referral to palliative care outpatient service,,,1,
+13486251000006116,referral to post-covid assessment clinic,,,1,
+5951491000006117,referral to primary health care clinic,1,,,
+2253851000000116,referral to rapid access care of the elderly clinic,,,1,
+459476016,referral to rapid access chest pain clinic,,,1,
+2256811000000114,referral to rapid access heart failure clinic,,,1,
+2253891000000112,referral to rapid access temporal arteritis clinic,,,1,
+1779671000006113,referral to rectal bleeding clinic,,,1,
+3516333019,referral to respiratory clinic,,,1,
+8259571000006112,referral to respiratory clinic,,,1,
+2533535012,referral to rheumatology clinic,,,1,
+7509911000006119,referral to sleep apnea clinic,,,1,
+7509901000006117,referral to sleep apnoea clinic,,,1,
+634561000000115,referral to sleep clinic,,,1,
+1485131018,referral to soft tissue injury clinic,,,1,
+2474330011,referral to stroke clinic,,,1,
+7599261000006111,referral to transient ischaemic attack clinic,,,1,
+7599271000006116,referral to transient ischemic attack clinic,,,1,
+1551131000000110,referral to tropical medicine clinic,,,1,
+7568201000006119,rehabilitation clinic,,,1,
+283547018,renal medicine emergency hospital admission,,,,1
+4723701000006118,renal medicine emergency hospital admission,,,,1
+7568211000006116,respiratory disease clinic,,,1,
+6763061000006115,respiratory emergency hospital admission,,,,1
+12702651000006117,review at hospital,,1,,
+265638012,review at hospital,,1,,
+265639016,reviewed at hospital,,1,,
+12451841000006111,reviewed at hospital,,1,,
+7568221000006112,rheumatology clinic,,,1,
+283536013,rheumatology emergency hospital admission,,,,1
+4723491000006116,rheumatology emergency hospital admission,,,,1
+3244721000006119,secondary care hospital,,,,1
+5943451000006114,seen by clinical allergist,,,1,
+448351017,seen by clinical allergy - service,,,1,
+5945331000006110,seen by clinical allergy service,,,1,
+5943381000006110,seen by clinical biochemist,,,1,
+5945721000006111,seen by clinical biochemistry service,,,1,
+5943601000006112,seen by clinical cytogeneticist,,,1,
+5945491000006116,seen by clinical cytogenetics service,,,1,
+5943591000006116,seen by clinical geneticist,,,1,
+5945481000006119,seen by clinical genetics service,,,1,
+5963951000006111,seen by clinical haematologist,,,1,
+5963961000006113,seen by clinical hematologist,,,1,
+5943501000006111,seen by clinical immunologist,,,1,
+5945391000006114,seen by clinical immunology service,,,1,
+5943621000006119,seen by clinical molecular geneticist,,,1,
+5945501000006112,seen by clinical molecular genetics service,,,1,
+5943511000006114,seen by clinical neurophysiologist,,,1,
+5945401000006111,seen by clinical neurophysiology service,,,1,
+448256013,seen by clinical nurse specialist,,,1,
+1709171000006111,seen by clinical nurse specialist,,,1,
+5943101000006116,seen by clinical oncologist,,,1,
+5945241000006112,seen by clinical oncology service,,,1,
+12736801000006113,seen by clinical pharmacist,,,1,
+12738601000006111,seen by clinical pharmacist in care home,,,1,
+448168010,seen by clinical pharmacologist,,,1,
+5945411000006114,seen by clinical pharmacology service,,,1,
+5943531000006115,seen by clinical physiologist,,,1,
+5945421000006118,seen by clinical physiology service,,,1,
+6718431000006110,seen by clinical psychologist,,,1,
+5946171000006116,seen by hospital base speech and language therapy service,,,1,
+5944901000006116,seen by hospital chiropodist,,,1,
+5945931000006111,seen by hospital chiropody service,,,1,
+5945981000006112,seen by hospital dietetics service,,,1,
+5944941000006119,seen by hospital dietitian,,,1,
+4734371000006112,seen by hospital midwife,,,1,
+285301012,seen by hospital nurse,,,1,
+5945001000006116,seen by hospital occupational therapist,,,1,
+5946051000006110,seen by hospital occupational therapy service,,,1,
+5945081000006113,seen by hospital physiotherapist,,,1,
+5946131000006119,seen by hospital physiotherapy service,,,1,
+5944891000006115,seen by hospital podiatrist,,,1,
+5945921000006113,seen by hospital podiatry service,,,1,
+5945151000006118,seen by hospital speech and language therapist,,,1,
+5946181000006118,seen by hospital speech and language therapy service,,,1,
+5944881000006118,seen by hospital-based chiropodist,,,1,
+5945971000006114,seen by hospital-based dietetics service,,,1,
+5944931000006112,seen by hospital-based dietitian,,,1,
+153201000006110,seen by hospital-based midwife,,,1,
+5944991000006111,seen by hospital-based occupational therapist,,,1,
+5946041000006113,seen by hospital-based occupational therapy service,,,1,
+5945071000006110,seen by hospital-based physiotherapist,,,1,
+5946121000006117,seen by hospital-based physiotherapy service,,,1,
+5944871000006116,seen by hospital-based podiatrist,,,1,
+5945911000006117,seen by hospital-based podiatry service,,,1,
+5945141000006115,seen by hospital-based speech and language therapist,,,1,
+285239019,seen in asthma clinic,,,1,
+285170015,seen in audiology clinic,,,1,
+456934015,seen in baby clinic,,,1,
+1715251000000119,seen in bariatric surgery clinic,,,1,
+1757691000006116,seen in bariatric surgery clinic,,,1,
+754701000000118,seen in bone marrow transplantation clinic,,,1,
+285221011,seen in cardiac clinic,,,1,
+285222016,seen in cardiology clinic,,,1,
+5946751000006113,seen in care of the elderly day hospital,,,1,
+285237017,seen in chest clinic,,,1,
+1839331000006117,seen in chronic obstructive pulmonary disease clinic,,,1,
+2219551000000113,seen in chronic obstructive pulmonary disease clinic,,,1,
+451322017,seen in clinic,,,1,
+285241018,seen in colorectal clinic,,,1,
+285240017,seen in colposcopy clinic,,,1,
+668111000000114,seen in community anticoagulation clinic,1,,,
+8126031000006110,seen in community clinic,1,,,
+8428511000006111,seen in community diabetes antenatal clinic,1,,,
+2549069011,seen in community diabetes specialist clinic,1,,,
+2549222013,seen in community diabetic specialist nurse clinic,1,,,
+1681011000006114,seen in community disease modifying antirheumatic drug monitoring clinic,1,,,
+2297741000000112,seen in community lymphoedema clinic,1,,,
+667221000000111,seen in community paediatric clinic,1,,,
+7221991000006113,seen in community pediatric clinic,1,,,
+2694708014,seen in community respiratory clinic,1,,,
+8195091000006114,seen in consultant led community clinic,,,1,
+8294561000006110,seen in copd (chronic obstructive pulmonary disease) clinic,,,1,
+1551091000000112,seen in cystic fibrosis clinic,,,1,
+1728561000006113,seen in cystic fibrosis clinic,,,1,
+5946701000006114,seen in day hospital,,,1,
+405040010,seen in dermatology clinic,,,1,
+285223014,seen in diabetic clinic,,,1,
+457231013,seen in diabetic eye clinic,,,1,
+2159271018,seen in diabetic foot clinic,,,1,
+2549778010,seen in diabetic nurse consultant clinic,,,1,
+285155016,seen in dietician clinic,,,1,
+1824591000006113,seen in ear care clinic,,,1,
+2195361000000115,seen in ear care clinic,,,1,
+4733591000006119,"seen in ear, nose and throat clinic",,,1,
+285229013,seen in elderly assessment clinic,,,1,
+620971000000110,seen in elderly care clinic,,,1,
+4733911000006119,seen in electromyography clinic,,,1,
+285266019,seen in emergency clinic,,,1,
+153671000006119,seen in emergency clinic,,,1,
+285250016,seen in emg clinic,,,1,
+285256010,seen in endocrine clinic,,,1,
+285215012,seen in ent clinic,,,1,
+2692343011,seen in epilepsy clinic,,,1,
+753701000000115,seen in fast track suspected brain tumour clinic,,,1,
+753761000000116,seen in fast track suspected breast cancer clinic,,,1,
+754441000000113,seen in fast track suspected cancer clinic,,,1,
+755591000000115,seen in fast track suspected childrens tumour clinic,,,1,
+754221000000119,seen in fast track suspected colorectal cancer clinic,,,1,
+753931000000112,seen in fast track suspected gynaecological cancer clinic,,,1,
+1705451000006113,seen in fast track suspected haematological malignancy clinic,,,1,
+754161000000115,seen in fast track suspected head and neck cancer clinic,,,1,
+754281000000118,seen in fast track suspected lung cancer clinic,,,1,
+753611000000112,seen in fast track suspected sarcoma clinic,,,1,
+754341000000119,seen in fast track suspected skin cancer clinic,,,1,
+1705501000006110,seen in fast track suspected upper gastrointestinal cancer clinic,,,1,
+754611000000110,seen in fast track suspected urological cancer clinic,,,1,
+285171016,seen in fracture clinic,,,1,
+285242013,seen in gastroenterology clinic,,,1,
+285234012,seen in gastroscopy clinic,,,1,
+285238010,seen in general medical clinic,,,1,
+668351000000110,seen in general practitioner anticoagulation clinic,,,1,
+1681001000006111,seen in general practitioner disease modifying antirheumatic drug monitoring clinic,1,,,
+153791000006113,seen in general surgery clinic,,,1,
+285263010,seen in general surgery clinic,,,1,
+4733221000006119,seen in genitourinary medicine clinic,,,1,
+285264016,seen in geriatric clinic,,,1,
+153811000006112,seen in geriatric clinic,,,1,
+5946761000006110,seen in geriatric day hospital,,,1,
+285244014,seen in haematology clinic,,,1,
+1682771000006111,seen in haematuria clinic,,,1,
+457008018,seen in hearing aid clinic,,,1,
+2549243014,seen in heart failure clinic,,,1,
+4733841000006113,seen in hematology clinic,,,1,
+727961000000113,seen in hospital anticoagulation clinic,,,1,
+285194015,seen in hospital casualty,,1,,
+8125671000006111,seen in hospital clinic,,,1,
+1681021000006118,seen in hospital disease modifying antirheumatic drug monitoring clinic,,,1,
+285195019,seen in hospital out-pat.,,,1,
+4733461000006114,seen in hospital outpatient department,,,1,
+285196018,seen in hospital ward,,,1,
+153941000006118,seen in hypertension clinic,,,1,
+285265015,seen in hypertension clinic,,,1,
+62911000000117,seen in immunology clinic,,,1,
+755061000000117,seen in infectious diseases clinic,,,1,
+1773381000006119,seen in in-house nurse-led diabetic clinic,,,1,
+2693456012,seen in liver clinic,,,1,
+2326351000000113,seen in lymphoedema clinic,,,1,
+1890371000006116,seen in lymphoedema clinic,,,1,
+557671000000111,seen in memory clinic,,,1,
+621031000000119,seen in mental health clinic,,,1,
+300021000000110,seen in multidisciplinary diabetic clinic,,,1,
+2694292015,seen in musculoskeletal clinic,,,1,
+285248012,seen in nephrology clinic,,,1,
+285224015,seen in neurology clinic,,,1,
+285245010,seen in neurosurgery clinic,,,1,
+1587621000000115,seen in nuclear medicine clinic,,,1,
+5946731000006118,seen in old age psychiatry day hospital,,,1,
+285271014,seen in oncology clinic,,,1,
+154061000006117,seen in oncology clinic,,,1,
+459209014,seen in open access nurse clinic,,,1,
+285214011,seen in ophthalmology clinic,,,1,
+285253019,seen in oral surgery clinic,,,1,
+285158019,seen in orthodontic clinic,,,1,
+285252012,seen in orthopaedic clinic,,,1,
+4733931000006113,seen in orthopedic clinic,,,1,
+1485065015,seen in osteoporosis clinic,,,1,
+154141000006117,seen in other clinic,,,1,
+285246011,seen in pain clinic,,,1,
+457268011,seen in private clinic,,,1,
+285247019,seen in prostate clinic,,,1,
+285228017,seen in psychiatry clinic,,,1,
+5946711000006112,seen in psychiatry day hospital,,,1,
+154301000006116,seen in psychogeriatric clinic,,,1,
+285273012,seen in psychogeriatric clinic,,,1,
+5946721000006116,seen in psychogeriatric day hospital,,,1,
+154341000006119,seen in radiotherapy clinic,,,1,
+285276016,seen in radiotherapy clinic,,,1,
+459475017,seen in rapid access chest pain clinic,,,1,
+1928501000006119,seen in rapid access clinic at gp surgery,,,1,
+154381000006113,seen in rehabilitation clinic,,,1,
+285277013,seen in rehabilitation clinic,,,1,
+285249016,seen in renal clinic,,,1,
+2691820014,seen in respiratory clinic,,,1,
+285220012,seen in rheumatology clinic,,,1,
+2694806018,seen in sleep clinic,,,1,
+2372941000000113,seen in spinal clinic,,,1,
+1910721000006112,seen in spinal clinic,,,1,
+306621000000116,seen in stroke clinic,,,1,
+620721000000113,seen in thoracic medicine clinic,,,1,
+285169016,seen in varicose vein clinic,,,1,
+457003010,seen in vascular clinic,,,1,
+2004011000006115,seen in virtual clinic,,,1,
+7568241000006117,seizure clinic,,,1,
+7280391000006110,sleep apnea clinic,,,1,
+7280381000006112,sleep apnoea clinic,,,1,
+2582111000006114,speciality clinic admission,,,1,
+2582121000006118,specialty clinic admission,,,1,
+7568281000006111,stroke clinic,,,1,
+1823511000006117,telephone contact by clinical nurse specialist,,,1,
+7696751000006116,temporary clinic,,,1,
+2822791000006114,tertiary care hospital,,,1,
+5993721000006119,tertiary referral hospital,,,1,
+6716231000006110,unexpected hospital admission,,,,1
+7568311000006113,urgent care clinic,,,1,
+7517441000006118,vascular surgery emergency hospital admission,,,,1
+1137891000000117,vascular surgery emergency hospital admission,,,,1
